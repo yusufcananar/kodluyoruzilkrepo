@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Bu repo ile beraber eğitim boyunca öğrenilenler kullanılarak kişisel bir blog websitesi oluşturulmaktadır.
 
-![github](figures/snap.PNG)
+![github](figures/blog.PNG)
 
 ## Installation
 
